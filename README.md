@@ -24,20 +24,7 @@ This will create a `result/` directory containing the launcher, `.desktop` file,
 
 After building:
 
-1. Run the launcher directly:
-
-```bash
-./result/bin/komga-start
-```
-
-2. Or add the `.desktop` entry to your menu:
-
-```bash
-cp -r result/share/applications ~/.local/share/applications/
-cp -r result/share/icons ~/.local/share/icons/
-```
-
-Then launch **Komga** from your app menu. It will start the server and open [http://localhost:25600](http://localhost:25600) in your browser.
+Launch **Komga** from your app menu. It will start the server and open [http://localhost:25600](http://localhost:25600) in your browser.
 
 ---
 
