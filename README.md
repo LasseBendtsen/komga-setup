@@ -33,9 +33,3 @@ Launch **Komga** from your app menu. It will start the server and open [http://l
 - Komga `v1.21.3` downloaded from SourceForge
 - Java 17 runtime
 - Desktop launcher and custom icon
-
----
-
-## 📁 Assets
-
-Place your `komga.png` icon inside an `assets/` directory next to the flake before building.
